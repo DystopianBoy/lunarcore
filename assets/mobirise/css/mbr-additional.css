@@ -791,6 +791,8 @@ a {
   transition: color 0.6s;
 }
 .cid-skLkJzMWID {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/moon-crop.jpg");
 }
 .cid-skLkJzMWID .image-wrap img {
@@ -803,8 +805,36 @@ a {
     width: 80%;
   }
 }
+.cid-skLkJzMWID .mbr-text,
+.cid-skLkJzMWID .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-skLGTrfHdm {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #000000;
+}
+.cid-skLGTrfHdm .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-skLGTrfHdm form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-skLGTrfHdm form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-skLGTrfHdm form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-skLGTrfHdm .mbr-section-title {
+  color: #ffffff;
+}
 .cid-skLkSglVdd {
-  padding-top: 0rem;
+  padding-top: 1rem;
   padding-bottom: 0rem;
   background-color: #000000;
 }
